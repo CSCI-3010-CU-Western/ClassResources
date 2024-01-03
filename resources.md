@@ -3,6 +3,7 @@
 c++ Tutorials and references
 --------------------
 For your review or as a reference on new course topics, these are recommended references:
+
 [learn cpp tutorial](https://www.learncpp.com/)
 
 [ThinkC++ by Allen B. Downey](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
