@@ -61,9 +61,9 @@ Point p_arr[3];  // Point's 0-param constructor * 3
 
 ```c++
 Point::Point(const int x, const int y):
-    x_(x),
-    y_(y),
-    z_(0) {
+    x_{x},
+    y_{y},
+    z_{0} {
     // regular body of constructor, will be run 2nd, after initialization list
 }
 ```
