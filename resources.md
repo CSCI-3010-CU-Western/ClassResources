@@ -90,6 +90,8 @@ Design Patterns & `static`
 -----------
 [__`static` wikipedia__](https://en.wikipedia.org/wiki/Static_(keyword))  
 
+[  static member variables: overview & best practices  ](https://www.learncpp.com/cpp-tutorial/static-member-variables/)
+
 __Singleton Example__ -- Can be found in lecture 11 (Earth examples)
 
 
