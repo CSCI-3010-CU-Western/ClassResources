@@ -1,11 +1,6 @@
 CSCI 3010: Programming Project Workshop: Object-Oriented Programming
 =====================
-
 See the [Canvas website](https://canvas.colorado.edu/courses/99583) for the syllabus, assignments, and in-class activities materials.  
-  
-We will be intermittently adding notes and other resources to this repository to help support the material that we cover in this class, which we will frequently link to from the canvas website. 
-
-#### Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, please request them and we'll add more to this list!
 
 c++ Tutorials and references
 --------------------
@@ -19,6 +14,8 @@ Compiling and Makefiles
 --------------------
 
 [__c++ compilation process__](http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/build.html) -- What are the steps to converting c++ file(s) to an executable file? This is a quick run down of all the steps involved.
+
+[  youtube overview of c++ compilation process  ](https://www.youtube.com/watch?v=ksJ9bdSX5Yo&ab_channel=MikeShah)
 
 [__example Makefile__](examples/Makefile)
 
