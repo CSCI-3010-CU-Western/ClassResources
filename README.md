@@ -117,6 +117,13 @@ Unit Testing
 [__Catch2 Assertion Macros__](https://github.com/catchorg/Catch2/blob/master/docs/assertions.md#top)
 
 
+Overloading Operators
+-----------
+[  friend functions for overloading operators  ](https://www.learncpp.com/cpp-tutorial/overloading-operators-using-member-functions/)
+
+[  See code examples here  ](https://github.com/CSCI-3010-CU-Western/ClassResources/blob/main/overloading_overriding_const_constructors_enums.md)
+
+
 Inheritance
 ----------
 [__inheritance in c++ (lectures from Univ. of Washington)__](https://courses.cs.washington.edu/courses/cse333/18su/lectures/18-c++-inheritance.pdf)  
