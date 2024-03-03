@@ -1,5 +1,8 @@
 # QT Creator - Getting Started
 
+Tutorial: https://wiki.qt.io/Qt_for_Beginners
+
+
 ## How to access UI elements
 
 In order to access elements of the user interface, you must instantiate the ui field in the MainWindow constructor, like follows: 
