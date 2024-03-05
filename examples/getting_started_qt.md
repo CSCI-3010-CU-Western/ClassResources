@@ -2,6 +2,7 @@
 
 Tutorial: https://wiki.qt.io/Qt_for_Beginners
 
+Youtube tutorial playlist: https://www.youtube.com/playlist?list=PL2D1942A4688E9D63 
 
 ## How to access UI elements
 
